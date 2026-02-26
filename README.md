@@ -39,8 +39,6 @@ An AI-powered mock interview platform built using the MERN stack that simulates 
 - Bcrypt for Password Hashing
 
 ### Payment Gateway:
-- Stripe / Razorpay (Based on implementation)
+-  Razorpay 
 
----
 
-## 📂 Project Structure
